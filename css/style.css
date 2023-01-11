@@ -1,0 +1,38 @@
+body {
+    padding: 20px ;
+}
+
+.sub-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-evenly;
+    background-color: aliceblue;
+    border: 1px solid black;
+    border-radius: 10%;
+    padding: 25px;
+}
+
+.quote {
+    padding: 5px;
+    background-color: white;
+}
+
+input, button {
+    width: 80%;
+}
+
+table {
+    border: 1px solid black;
+    border-radius: 50%;
+}
+
+ul {
+    list-style: none;
+    color: aqua;
+}
+
+h3 {
+    font-size: 20px;
+    color: #CCC;
+}
